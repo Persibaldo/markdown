@@ -1,6 +1,6 @@
-#Repositorio Percival
+# Repositorio Percival
 
-##Paginas web
+## Paginas web
 
 |Nombre    |Github?  |Estado    |
 |----------|:-------:|----------|
@@ -9,13 +9,12 @@
 |Cosmere   |Sí       |Completado|
 |Epic      |No       |Sin acabar|
 
-##Cosmere
+## Cosmere
 ![Portada del libro Camino de los Reyes](https://github.com/Persibaldo/markdown/tree/main/img/caminoreyes.jpg)
 
-##Acceso
+## Acceso
 [Web Gaming](https://persibaldo.github.io/web.gaming/inicio.html)
 [Agatha](https://github.com/Persibaldo/markdown/blob/main/agatha.html)
 [Acceso a imagenes](https://github.com/Persibaldo/markdown/tree/main/img)
 
-> Acetate
-- Luisfer
+> Let your heart be your guiding key
