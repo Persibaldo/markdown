@@ -10,3 +10,4 @@
 |Epic      |No       |Sin acabar|
 
 ##Cosmere
+![Portada del libro Camino de los Reyes](https://github.com/Persibaldo/markdown/tree/main/img/caminoreyes.jpg)
